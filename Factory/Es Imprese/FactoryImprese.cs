@@ -10,6 +10,7 @@ namespace Factory.Es_Imprese
         {
             IImpresa impresa;
 
+            //IF
             if(nDipendenti < 0)
             {
                 Console.WriteLine("Erroe");
